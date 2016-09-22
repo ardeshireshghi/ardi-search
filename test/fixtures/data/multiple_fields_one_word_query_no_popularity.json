@@ -1,0 +1,42 @@
+[
+  {
+    "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS1",
+    "ev_synopsis": "EV32 Short synopsis -title_synopsis_relevancy20160922095123",
+    "ep_synopsis": "EP4 Short synopsis -title_synopsis_relevancy20160922095123",
+    "ep_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS1",
+    "ep_title": "EP4 Title -title_synopsis_relevancy20160922095123"
+  },
+  {
+    "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS2",
+    "ev_synopsis": "EV15 short synopsis - TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_synopsis": "EP40 Short synopsis - TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS2",
+    "ep_title": "EP40 Title -title_synopsis_relevancy20160922095123"
+  },
+  {
+    "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
+    "ev_synopsis": "EV3 Short synopsis -title_synopsis_relevancy20160922095123",
+    "ep_synopsis": "EP6 Short synopsis -title_synopsis_relevancy20160922095123",
+    "ep_parent_title": "SR Title -title_synopsis_relevancy20160922095123",
+    "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
+    "ep_title": "EP6 Title - TitleSynopsisRelevancyTestTopGear20160922095123"
+  },
+  {
+    "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
+    "ev_synopsis": "TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_synopsis": "TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_parent_title": "SR Title -title_synopsis_relevancy20160922095123",
+    "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
+    "ep_title": "EP60 Title - TitleSynopsisRelevancyTestTopGear20160922095123"
+  },
+  {
+    "top_level_title": "BR2 Title -title_synopsis_relevancy20160922095123",
+    "ev_synopsis": "EV31 Short synopsis -title_synopsis_relevancy20160922095123",
+    "ep_synopsis": "EP5 short synopsis -title_synopsis_relevancy20160922095123",
+    "ep_parent_title": "SR Title -title_synopsis_relevancy20160922095123",
+    "ep_parent_parent_title": "BR2 Title -title_synopsis_relevancy20160922095123",
+    "ep_title": "EP5 Title - TitleSynopsisRelevancyTestTopGear20160922095123 episode title match"
+  }
+]

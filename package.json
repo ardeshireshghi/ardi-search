@@ -1,0 +1,23 @@
+{
+  "name": "ardi-search",
+  "version": "1.0.0",
+  "description": "Ardi search, searches documents (JSON) fields using multi_match algorithm and gives results based on relavancy",
+  "main": "lib/searcher.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha \"./test/**/*.test.js\" -b -R spec --harmony --timeout 1000"
+  },
+  "keywords": [
+    "search",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Ardeshir Eshghi <ardi.eshghi@gmail.com> (http://www.e-ardi.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}

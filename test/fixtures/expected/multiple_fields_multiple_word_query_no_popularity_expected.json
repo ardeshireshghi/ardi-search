@@ -1,0 +1,105 @@
+[
+  {
+    "_id": "57a3d04193c903166cd6a260",
+    "href": "http://www.icodes.co.uk/webservices/register.php",
+    "title": "www.icodes.co.uk/webservices/register.php",
+    "__v": 0,
+    "date": "2016-08-04T23:31:13.623Z",
+    "private": false,
+    "tags": [
+      "likeminded deal"
+    ],
+    "description": "",
+    "clicks": 4,
+    "_score": 9.148150092331944
+  },
+  {
+    "_id": "57a3d04093c903166cd6a225",
+    "href": "http://www.phpro.org/tutorials/Automated-Testing-With-Selenium2-And-PHPUnit.html",
+    "title": "www.phpro.org",
+    "__v": 0,
+    "date": "2016-08-04T23:31:12.447Z",
+    "private": false,
+    "tags": [
+      "phpunit",
+      "selenium",
+      "web development",
+      "unit-test",
+      "php"
+    ],
+    "description": "",
+    "clicks": 18,
+    "_score": 9.148150092331944
+  },
+  {
+    "_id": "57d8969d2bad3e0e3adbe7cd",
+    "href": "http://www.phptherightway.com/",
+    "title": "PHP the right way",
+    "__v": 0,
+    "date": "2016-09-14T00:15:25.772Z",
+    "private": false,
+    "tags": [
+      "php5",
+      "web-development",
+      "linux",
+      "docker"
+    ],
+    "description": "",
+    "clicks": 6,
+    "_score": 4.574075046165972
+  },
+  {
+    "_id": "57a3d04093c903166cd6a224",
+    "href": "http://www.sitepoint.com/sending-email-with-swift-mailer/",
+    "title": "PHP Master | Sending Email with Swift Mailer",
+    "__v": 0,
+    "date": "2016-08-04T23:31:12.443Z",
+    "private": false,
+    "tags": [
+      "php",
+      "email",
+      "swift-mailer",
+      "web development"
+    ],
+    "description": "Very useful tutorial to know how to work with swift mailer\n",
+    "clicks": 10,
+    "_score": 3.234359482800129
+  },
+  {
+    "_id": "57a3d04193c903166cd6a245",
+    "href": "http://community.linuxmint.com/tutorial/view/486",
+    "title": "Installing LAMP (Linux, Apache, MySQL and PHP) On Linux Mint - Linux Mint Community",
+    "__v": 0,
+    "date": "2016-08-04T23:31:13.147Z",
+    "private": false,
+    "tags": [
+      "apache",
+      "php",
+      "lamp",
+      "linux"
+    ],
+    "description": "When access to server becomes available we need to install the apache and php. This document guides us through that\n",
+    "clicks": 14,
+    "_score": 2.4449459548778956
+  },
+  {
+    "_id": "57a3d04093c903166cd6a21b",
+    "href": "https://www.digitalocean.com/community/articles/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-12-04",
+    "title": "How To Install Linux, nginx, MySQL, PHP (LEMP) stack on Ubuntu 12.04 | DigitalOcean",
+    "__v": 0,
+    "date": "2016-08-04T23:31:12.302Z",
+    "private": false,
+    "tags": [
+      "php",
+      "linux",
+      "web development",
+      "nginx",
+      "phpfpm",
+      "lemp",
+      "tutorial"
+    ],
+    "description": "",
+    "clicks": 8,
+    "_score": 2.4449459548778956
+  }
+]
