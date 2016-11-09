@@ -3,9 +3,9 @@
 let expect = require('chai').expect;
 let ArdiSearcher = require('../lib/searcher');
 
-describe('Searcher module tests', function () {
-  describe('#search - One word query, multple fields', function () {
-    it('should match all the 5 documents and return in correct relavancy', function () {
+describe('Searcher module tests', () => {
+  describe('#search - One word query, multple fields',  () => {
+    it('should match all the 5 documents and return in correct relavancy', () => {
       let docs = require('./fixtures/data/multiple_fields_one_word_query_no_popularity');
       let expectedResults = require('./fixtures/expected/multiple_fields_one_word_query_no_popularity_expected');
       let searcher = new ArdiSearcher({
@@ -40,8 +40,8 @@ describe('Searcher module tests', function () {
     });
   });
 
-  describe('#search - Multiple word query, multple fields', function () {
-    it('should search correctly and return top 10 most relevant results', function () {
+  describe('#search - Multiple word query, multple fields', () => {
+    it('should search correctly and return top 10 most relevant results', () => {
       let docs = require('./fixtures/data/main_mock_search_docs');
       let expectedResults = require('./fixtures/expected/multiple_fields_multiple_word_query_no_popularity_expected');
       let searcher = new ArdiSearcher({
