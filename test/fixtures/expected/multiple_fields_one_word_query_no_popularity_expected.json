@@ -1,30 +1,21 @@
 [
   {
-    "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS2",
-    "ev_synopsis": "EV15 short synopsis - TitleSynopsisRelevancyTestTopGear20160922095123",
-    "ep_synopsis": "EP40 Short synopsis - TitleSynopsisRelevancyTestTopGear20160922095123",
-    "ep_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123",
-    "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS2",
-    "ep_title": "EP40 Title -title_synopsis_relevancy20160922095123",
-    "_score": 28.39288298010224
-  },
-  {
     "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS1",
     "ev_synopsis": "EV32 Short synopsis -title_synopsis_relevancy20160922095123",
     "ep_synopsis": "EP4 Short synopsis -title_synopsis_relevancy20160922095123",
     "ep_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123",
     "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS1",
     "ep_title": "EP4 Title -title_synopsis_relevancy20160922095123",
-    "_score": 27.26678004780581
+    "_score": 141.42135623730948
   },
   {
-    "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
-    "ev_synopsis": "TitleSynopsisRelevancyTestTopGear20160922095123",
-    "ep_synopsis": "TitleSynopsisRelevancyTestTopGear20160922095123",
-    "ep_parent_title": "SR Title -title_synopsis_relevancy20160922095123",
-    "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
-    "ep_title": "EP60 Title - TitleSynopsisRelevancyTestTopGear20160922095123",
-    "_score": 18.680161695156098
+    "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS2",
+    "ev_synopsis": "EV15 short synopsis - TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_synopsis": "EP40 Short synopsis - TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 BS2",
+    "ep_title": "EP40 Title -title_synopsis_relevancy20160922095123",
+    "_score": 141.42135623730948
   },
   {
     "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
@@ -33,7 +24,16 @@
     "ep_parent_title": "SR Title -title_synopsis_relevancy20160922095123",
     "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
     "ep_title": "EP6 Title - TitleSynopsisRelevancyTestTopGear20160922095123",
-    "_score": 16.16211898887945
+    "_score": 89.44271909999159
+  },
+  {
+    "top_level_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
+    "ev_synopsis": "TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_synopsis": "TitleSynopsisRelevancyTestTopGear20160922095123",
+    "ep_parent_title": "SR Title -title_synopsis_relevancy20160922095123",
+    "ep_parent_parent_title": "TitleSynopsisRelevancyTestTopGear20160922095123 brand and episode title",
+    "ep_title": "EP60 Title - TitleSynopsisRelevancyTestTopGear20160922095123",
+    "_score": 89.44271909999159
   },
   {
     "top_level_title": "BR2 Title -title_synopsis_relevancy20160922095123",
@@ -42,6 +42,6 @@
     "ep_parent_title": "SR Title -title_synopsis_relevancy20160922095123",
     "ep_parent_parent_title": "BR2 Title -title_synopsis_relevancy20160922095123",
     "ep_title": "EP5 Title - TitleSynopsisRelevancyTestTopGear20160922095123 episode title match",
-    "_score": 0.3852540064892582
+    "_score": 2.3115240389355494
   }
 ]
